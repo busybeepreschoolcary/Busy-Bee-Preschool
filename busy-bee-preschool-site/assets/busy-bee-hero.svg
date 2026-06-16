@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 820" role="img" aria-labelledby="title desc">
+  <title id="title">Busy Bee Preschool classroom and garden</title>
+  <desc id="desc">A cheerful preschool classroom opening to an outdoor garden with play tables, books, plants, blocks, and bee decorations.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#dff6ff"/>
+      <stop offset="1" stop-color="#fff9ed"/>
+    </linearGradient>
+    <linearGradient id="floor" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#e8c894"/>
+      <stop offset="1" stop-color="#cfa168"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="820" fill="url(#sky)"/>
+  <circle cx="1035" cy="130" r="72" fill="#ffd95a"/>
+  <path d="M0 520 C180 430 300 500 474 430 C660 356 782 410 980 350 C1088 317 1160 315 1200 326 L1200 820 L0 820 Z" fill="#8dcf88"/>
+  <path d="M0 602 C172 545 338 600 510 548 C705 489 840 534 1200 456 L1200 820 L0 820 Z" fill="#5ba86b"/>
+  <rect x="80" y="170" width="760" height="520" rx="22" fill="#fffaf0" stroke="#24313a" stroke-width="12"/>
+  <rect x="116" y="210" width="688" height="292" rx="16" fill="#e9f8fd" stroke="#24313a" stroke-width="7"/>
+  <rect x="92" y="512" width="736" height="178" fill="url(#floor)"/>
+  <path d="M116 502 L804 502" stroke="#24313a" stroke-width="7"/>
+  <rect x="158" y="542" width="238" height="86" rx="12" fill="#f7bd24" stroke="#24313a" stroke-width="7"/>
+  <path d="M190 628 L172 694 M364 628 L384 694" stroke="#24313a" stroke-width="9" stroke-linecap="round"/>
+  <rect x="442" y="542" width="210" height="120" rx="10" fill="#68b7d7" stroke="#24313a" stroke-width="7"/>
+  <rect x="472" y="574" width="62" height="88" fill="#fff" stroke="#24313a" stroke-width="6"/>
+  <rect x="554" y="574" width="62" height="88" fill="#fff" stroke="#24313a" stroke-width="6"/>
+  <rect x="690" y="535" width="80" height="118" rx="8" fill="#3f8f61" stroke="#24313a" stroke-width="7"/>
+  <circle cx="730" cy="512" r="42" fill="#83c77b" stroke="#24313a" stroke-width="7"/>
+  <path d="M176 420 C232 378 274 390 316 420" fill="none" stroke="#f7bd24" stroke-width="20" stroke-linecap="round"/>
+  <path d="M186 410 C236 374 273 386 308 416" fill="none" stroke="#24313a" stroke-width="5" stroke-linecap="round"/>
+  <rect x="202" y="265" width="118" height="86" rx="8" fill="#fff" stroke="#24313a" stroke-width="6"/>
+  <path d="M224 324 L250 294 L274 320 L292 302" fill="none" stroke="#3f8f61" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="366" y="270" width="118" height="80" rx="8" fill="#fff" stroke="#24313a" stroke-width="6"/>
+  <circle cx="426" cy="310" r="24" fill="#f7bd24" stroke="#24313a" stroke-width="5"/>
+  <path d="M402 310 H450 M426 286 V334" stroke="#24313a" stroke-width="5"/>
+  <rect x="526" y="265" width="138" height="88" rx="8" fill="#fff" stroke="#24313a" stroke-width="6"/>
+  <path d="M558 316 C590 280 624 282 640 318" fill="none" stroke="#68b7d7" stroke-width="10" stroke-linecap="round"/>
+  <path d="M926 446 C980 404 1040 410 1084 456 C1032 475 984 474 926 446 Z" fill="#fff7c2" stroke="#24313a" stroke-width="7"/>
+  <ellipse cx="1004" cy="448" rx="66" ry="43" fill="#f7bd24" stroke="#24313a" stroke-width="7"/>
+  <path d="M964 416 C948 385 918 385 904 410 C930 424 948 428 968 426 Z" fill="#dff6ff" stroke="#24313a" stroke-width="6"/>
+  <path d="M1002 404 C1015 370 1046 362 1070 386 C1052 410 1034 422 1002 426 Z" fill="#dff6ff" stroke="#24313a" stroke-width="6"/>
+  <path d="M962 418 C988 440 990 459 963 481 M1010 407 C1034 431 1037 464 1018 487" fill="none" stroke="#24313a" stroke-width="8"/>
+  <circle cx="1048" cy="448" r="6" fill="#24313a"/>
+  <path d="M1078 438 C1100 426 1118 428 1132 446" fill="none" stroke="#24313a" stroke-width="6" stroke-linecap="round"/>
+  <rect x="118" y="690" width="972" height="130" fill="#f3d9a7"/>
+  <path d="M118 724 H1090 M118 770 H1090" stroke="#d0a168" stroke-width="5"/>
+  <rect x="222" y="604" width="42" height="42" rx="6" fill="#e85d4f" stroke="#24313a" stroke-width="5"/>
+  <rect x="275" y="604" width="42" height="42" rx="6" fill="#68b7d7" stroke="#24313a" stroke-width="5"/>
+  <rect x="328" y="604" width="42" height="42" rx="6" fill="#3f8f61" stroke="#24313a" stroke-width="5"/>
+  <path d="M860 647 C900 604 954 612 990 650 C948 676 902 674 860 647 Z" fill="#fff" stroke="#24313a" stroke-width="7"/>
+  <path d="M902 650 C906 612 942 594 976 618" fill="none" stroke="#3f8f61" stroke-width="9" stroke-linecap="round"/>
+</svg>
